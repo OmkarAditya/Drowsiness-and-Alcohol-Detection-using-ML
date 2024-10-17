@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Driver-Drowsiness-Detection
 Driver drowsiness detection is a project built using Dlib and OpenCV with Python as a backend language.
 <h3>Logic of project</h3>
@@ -16,3 +17,6 @@ we determine whether the eyes are open or they are closed.</br></br>
 <img src="https://raw.githubusercontent.com/infoaryan/Driver-Drowsiness-Detection/master/screenshots/sleepy.jpg" align="center" height="350">
 
 <h2>Detailed Explanation video of the project : </h2><a href="https://youtu.be/ksi42rwGyas">Youtube video link</a>
+=======
+DROWSINESS AND ALCHOL DETECTION 
+>>>>>>> 6d1c8a792cf2183f122c55851a0f2fbdcd087507
