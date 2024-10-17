@@ -6,7 +6,11 @@ from imutils import face_utils
 import time
 import serial
 import os
+from dotenv import load_dotenv
 from twilio.rest import Client
+
+env_path = os.path.join(r'C:\Users\hp\Desktop\Drowsiness', '.env')
+load_dotenv(dotenv_path=env_path)
 
 account_sid = os.getenv('TWILIO_ACCOUNT_SID')
 auth_token = os.getenv('TWILIO_AUTH_TOKEN')

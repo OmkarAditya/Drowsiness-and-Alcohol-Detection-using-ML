@@ -68,7 +68,7 @@ void loop() {
     sensor_value=analogRead(alcohol);
   //  Serial.println(sensor_value);
 
-    if(sensor_value>550){
+    if(sensor_value>162){
       Serial.println(1);
       function(1,0,0,0);
       pause();
